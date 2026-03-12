@@ -28,14 +28,38 @@ Welcome to my GitHub profile! I am an AI Engineer with 8+ years of experience in
 
 ## 📌 Popular Projects
 
-### [Predictive Analytics Platform]
-A system to predict business trends and automate forecasting using machine learning and cloud-based infrastructure.
+### **[Predictive Analytics Platform](Link to the project)**
+Built a system for predicting business trends, automating forecasting, and driving data-driven decisions in real-time.
 
-### [Autonomous Business Decision-Making Agent]
-Created an autonomous agent that leverages RAG for optimized decision-making, improving business strategy.
+### **[Autonomous Business Decision-Making Agent](Link to the project)**
+Created an autonomous agent leveraging **RAG** for decision-making, improving business strategy across departments.
 
-### [AI-Powered Customer Interaction System]
-A system to automate customer interactions using NLP and LLM for enhanced customer satisfaction and faster response times.
+### **[AI-Powered Customer Interaction System](Link to the project)**
+Developed an AI platform using **LLMs** and **NLP** to automate customer interactions, reducing response times and improving user satisfaction.
+
+### **[AI-Powered Medical Diagnostic System]**
+Developed an AI-driven system for medical image analysis (MRI, X-ray scans), using **Computer Vision** to assist in detecting anomalies, enhancing diagnostic accuracy.
+
+### **[GenAI for Content Generation]**
+Built a system that uses **Generative AI** to create high-quality content for marketing, blogs, and other business needs. Integrated **LLMs** to tailor content based on user preferences and trends.
+
+### **[FinTech Predictive Analytics]**
+Created a **FinTech** platform that uses **ML** algorithms to predict stock market trends and advise on investment strategies, offering financial insights for traders and investors.
+
+### **[Inventory Management System with AI]**
+Developed a system leveraging **ML** and **Computer Vision** to automate inventory management, track products in warehouses, and optimize supply chains.
+
+### **[AI-Driven Fraud Detection System for Payments]**
+Implemented a **Machine Learning** model that detects fraudulent activities in real-time, preventing financial losses in online transactions.
+
+### **[Real-time Chatbot for Customer Service]**
+Built an intelligent **chatbot** using **NLP** and **GenAI** for real-time customer service and query resolution, improving customer satisfaction.
+
+### **[Sentiment Analysis on Social Media Data]**
+Developed a system that analyzes social media posts using **NLP** to track public sentiment on various topics, providing actionable insights for businesses.
+
+### **[AI for Risk Management in Finance]**
+Created a machine learning model that evaluates risk factors in financial portfolios and suggests optimization strategies to reduce financial risks.
 
 ---
 
@@ -48,17 +72,16 @@ A system to automate customer interactions using NLP and LLM for enhanced custom
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [syed.hussain2@talent.andela.com](mailto:syed.hussain2@talent.andela.com)
-- 🌐 Website: [Your Portfolio](https://your-portfolio.com)
-- 💬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: [syedsheraz.work@gmail.com](mailto:syedsheraz.work@gmail.com)
+- 💬 LinkedIn: [Syed Sheraz]((https://www.linkedin.com/in/syedsheraz/))
 
 ---
 
 ## 🏅 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=radical)
 
 ---
 
