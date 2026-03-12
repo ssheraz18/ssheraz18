@@ -28,13 +28,13 @@ Welcome to my GitHub profile! I am an AI Engineer with 8+ years of experience in
 
 ## 📌 Popular Projects
 
-### **[Predictive Analytics Platform](Link to the project)**
+### **[Predictive Analytics Platform]**
 Built a system for predicting business trends, automating forecasting, and driving data-driven decisions in real-time.
 
-### **[Autonomous Business Decision-Making Agent](Link to the project)**
+### **[Autonomous Business Decision-Making Agent]**
 Created an autonomous agent leveraging **RAG** for decision-making, improving business strategy across departments.
 
-### **[AI-Powered Customer Interaction System](Link to the project)**
+### **[AI-Powered Customer Interaction System]**
 Developed an AI platform using **LLMs** and **NLP** to automate customer interactions, reducing response times and improving user satisfaction.
 
 ### **[AI-Powered Medical Diagnostic System]**
